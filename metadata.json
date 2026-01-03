@@ -1,0 +1,8 @@
+{
+  "name": "Abu Metha Digital Portfolio",
+  "description": "A high-end, Gen-Z oriented portfolio for Abu Metha, featuring a modern dark UI, animated sections, and a built-in Gemini AI assistant to share his vision and achievements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
